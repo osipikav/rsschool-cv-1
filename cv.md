@@ -1,26 +1,28 @@
-Andrei Osipik
-####Frontend Developer (I hope)
+#### Andrei Osipik
 
-####Contacts:
+Frontend Developer
 
-Discord: osipikav#4680
-E-mail: osipik.av@yandex.by
-Tel: +375298009607
-GitHub: osipikav
+#### Contacts:
 
-####About myself:
+- Discord: osipikav#4680
+- E-mail: osipik.av@yandex.by
+- Tel: +375298009607
+- GitHub: osipikav
+
+#### About myself:
 
 The old job is almost not fun, so I'm trying to become a developer.
 
-####Skills and Proficiency:
+#### Skills and Proficiency:
 
-HTML5, CSS
-JavaScript Basics
-Git, GitHub
-VSCode
+- HTML5, CSS
+- JavaScript Basics
+- Git, GitHub
+- VSCode
 
-####Code example:
+#### Code example:
 
+```
 const personalMovieDB = {
 count: 0,
 movies: {},
@@ -45,17 +47,18 @@ i--;
 }
 }
 },
+```
 
-####Work experience: Nothing yet…
+#### Work experience: Nothing yet…
 
-####Education and courses:
+#### Education and courses:
 
-front-end developer course (stage 0) RSSchool
-JS basics course Udemi
-CSS, HTML basics courses Yandex
-JavaScript https://learn.javascript.ru/
+- front-end developer course (stage 0) RSSchool
+- JS basics course Udemi
+- CSS, HTML basics courses Yandex
+- JavaScript https://learn.javascript.ru/
 
-####Language:
+#### Language:
 
-English A2
-Russian
+- English A2
+- Russian
